@@ -46,6 +46,5 @@ def Take_allpage(url):
         n=n+1
     with open('data.json', 'w') as outfile:
         json.dump(data, outfile)
-    return 0
 
 Take_allpage("https://www.bukalapak.com/c/kamera/kamera-analog")
