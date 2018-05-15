@@ -68,16 +68,47 @@ Preprocessing contohnya :
 - Author
 ```
 
-<h1 align="center">
-  <br>
-  Selamat BerEksplorasi!
-  <br>
-  <br>
-</h1>
+### How to Use
 
-<p align="center">
-  <br>
-  Basdat Industries - Lab Basdat 2018
-  <br>
-  <br>
-</p>
+1. Install Python dan library BeautifulSoup ke dalam komputer
+2. Jalankan program dengan menjalankan Makefile
+3. Untuk menghentikan program tekan Ctrl-C
+
+### JSON Structure
+
+Untuk sementara data disimpan dalam data.json dan struktur JSON adalah sebagai berikut:
+```
+{"Kamera":
+  [
+    {
+      "Nama": "Fujifilm Kamera Polaroid Instax Square SQ10 Hybrid Camera Garansi Resmi 1 Tahun",
+      "Harga": "3999000",
+      "Merek": "Fujifilm"
+    },
+    {
+      "Nama": "Fujifilm Kamera Instax Mini 70 Camera Garansi Resmi Indonesia",
+      "Harga": "1649000",
+      "Merek": "Fujifilm"
+    },
+    {
+      "Nama": "Fujifilm Instax Mini 9 Cobalt Blue",
+      "Harga": "949000",
+      "Merek": "Fujifilm"
+    }
+  ]
+}
+```
+
+### Screenshots
+
+Program dijalankan dengan Makefile
+
+![](screenshots/Screenshot4.png)
+
+### Reference
+
+Memakai library BeautifulSoup
+
+### Author
+
+Teresa - 13516133
