@@ -106,7 +106,7 @@ Program dijalankan dengan Makefile
 
 ### Reference
 
-1. Library BeautifulSoup, time, dan json
+1. Library BeautifulSoup, urllib.request, time, dan json
 2. Stackoverflow
 3. Python documentation
 
