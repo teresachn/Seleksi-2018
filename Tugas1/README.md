@@ -1,17 +1,16 @@
 <h1 align="center">
   <br>
   Web Scraper Data Harga Kamera Analog
-  <br>
-  <br>
 </h1>
 
 <h2 align="center">
-  <br>
   Teresa - 13516133
-  <br>
   <br>
 </h2>
 
+### Description
+
+Web scraper yang mengambil data berupa Nama, Harga dan Merek Kamera Analog dari www.bukalapak.com . Mungkin akan diupdate.
 
 ### Specifications
 
