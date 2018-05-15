@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  Tugas 1 Seleksi Warga Basdat 2018
+  Web Scraper Data Harga Kamera Analog
   <br>
   <br>
 </h1>
