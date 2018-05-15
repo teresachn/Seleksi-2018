@@ -103,7 +103,7 @@ Untuk sementara data disimpan dalam data.json dan struktur JSON adalah sebagai b
 
 Program dijalankan dengan Makefile
 
-![](screenshots/Screenshot4.png)
+![](screenshots/Screenshot4.PNG)
 
 ### Reference
 
