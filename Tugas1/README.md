@@ -106,7 +106,9 @@ Program dijalankan dengan Makefile
 
 ### Reference
 
-Memakai library BeautifulSoup
+1. Library BeautifulSoup
+2. Stackoverflow
+3. Python documentation
 
 ### Author
 
